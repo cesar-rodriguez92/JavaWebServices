@@ -7742,3 +7742,1408 @@ org.eclipse.core.runtime.OperationCanceledException
 
 !ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 20:52:20.803
 !MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.852
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.853
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.854
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.855
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.855
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.856
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.856
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.857
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.857
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:22.858
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:23.111
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:23.112
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:23.381
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:11:23.382
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:22:08.061
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.753
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.755
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.756
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.756
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.757
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.758
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.758
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.759
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.760
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:01.761
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:02.033
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:02.034
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:02.505
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:02.506
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:32:05.944
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.214
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.216
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.216
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.217
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.218
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.218
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.218
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.219
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.219
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.220
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.462
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.463
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.792
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:19.793
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:35:23.277
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:45.995
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:45.996
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:45.998
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:45.998
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:45.999
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.000
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.000
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.001
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.002
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.002
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.245
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.246
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.519
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:46.520
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:36:49.920
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.316
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.318
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.319
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.319
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.320
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.320
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.321
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.321
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.322
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.322
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.566
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.567
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.883
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:45.883
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 21:38:49.255
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.072
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.075
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.076
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.077
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.079
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.080
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.081
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.082
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.083
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.084
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.791
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:58.792
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:59.418
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:27:59.419
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:07.844
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.518
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.521
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.523
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.524
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.526
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.527
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.528
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.529
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.530
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:48.532
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:49.155
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:49.156
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:49.780
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:49.781
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:28:59.226
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:37:11.945
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY org.eclipse.debug.core 4 2 2017-05-07 23:37:11.948
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2017-05-07 23:37:11.951
+!MESSAGE An exception occurred while dispatching debug events.
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:37:11.952
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY org.eclipse.debug.core 4 2 2017-05-07 23:37:11.953
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2017-05-07 23:37:11.955
+!MESSAGE An exception occurred while dispatching debug events.
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:37:11.956
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY org.eclipse.debug.core 4 2 2017-05-07 23:37:11.958
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2017-05-07 23:37:11.959
+!MESSAGE An exception occurred while dispatching debug events.
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:37:11.961
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY org.eclipse.debug.core 4 2 2017-05-07 23:37:11.962
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2017-05-07 23:37:11.964
+!MESSAGE An exception occurred while dispatching debug events.
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:37:11.965
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY org.eclipse.debug.core 4 2 2017-05-07 23:37:11.966
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2017-05-07 23:37:11.968
+!MESSAGE An exception occurred while dispatching debug events.
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:37:12.601
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY org.eclipse.debug.core 4 2 2017-05-07 23:37:12.603
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2017-05-07 23:37:12.605
+!MESSAGE An exception occurred while dispatching debug events.
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-07 23:37:13.270
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY org.eclipse.debug.core 4 2 2017-05-07 23:37:13.271
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 125 2017-05-07 23:37:13.272
+!MESSAGE An exception occurred while dispatching debug events.
+!STACK 0
+java.lang.IllegalArgumentException: Module cannot be null or empty
+	at org.eclipse.wst.server.core.internal.Server.getChildModules(Server.java:2628)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getModules(GwtFacetUtils.java:159)
+	at com.google.gwt.eclipse.wtp.utils.GwtFacetUtils.getGwtFacetedProject(GwtFacetUtils.java:121)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onServerStopped(GwtWtpPlugin.java:350)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvent(GwtWtpPlugin.java:200)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin.onDebugEvents(GwtWtpPlugin.java:141)
+	at com.google.gwt.eclipse.wtp.GwtWtpPlugin$1.handleDebugEvents(GwtWtpPlugin.java:131)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1151)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1185)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:441)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.android.ide.eclipse.adt 1 0 2017-05-07 23:37:15.859
+!MESSAGE No valid Android XML Editor Delegate found for file /JSONRestWS-002/WebContent/WEB-INF/web.xml [Res null, type null]
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:57:26.499
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:57:26.502
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getChoicesForElement(AndroidContentAssist.java:301)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeNonAttributeProposals(AndroidContentAssist.java:199)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:184)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1747)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.doOperation(StructuredTextViewer.java:488)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:84)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:81)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:118)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:57:29.881
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:57:29.883
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getElementChoicesForTextNode(AndroidContentAssist.java:530)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeTextValues(AndroidContentAssist.java:498)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:171)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1747)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.doOperation(StructuredTextViewer.java:488)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:84)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:81)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:118)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:57:42.888
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:57:42.889
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getElementChoicesForTextNode(AndroidContentAssist.java:530)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeTextValues(AndroidContentAssist.java:498)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:171)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener$1.run(ContentAssistant.java:371)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:57:59.776
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:57:59.777
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getChoicesForElement(AndroidContentAssist.java:301)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeNonAttributeProposals(AndroidContentAssist.java:199)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:184)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1747)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.doOperation(StructuredTextViewer.java:488)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:84)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:81)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:118)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:58:01.618
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:58:01.619
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getElementChoicesForTextNode(AndroidContentAssist.java:530)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeTextValues(AndroidContentAssist.java:498)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:171)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1747)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.doOperation(StructuredTextViewer.java:488)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:84)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:81)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:118)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:58:06.924
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:58:06.926
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getElementChoicesForTextNode(AndroidContentAssist.java:530)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeTextValues(AndroidContentAssist.java:498)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:171)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$AutoAssistListener$1.run(ContentAssistant.java:371)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:58:47.256
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:58:47.258
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getChoicesForElement(AndroidContentAssist.java:301)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeNonAttributeProposals(AndroidContentAssist.java:199)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:184)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1747)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.doOperation(StructuredTextViewer.java:488)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:84)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:81)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:118)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:58:50.956
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:58:50.958
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getChoicesForElement(AndroidContentAssist.java:301)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeNonAttributeProposals(AndroidContentAssist.java:199)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:184)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1747)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.doOperation(StructuredTextViewer.java:488)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:84)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:81)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:118)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2017-05-07 23:58:53.988
+!MESSAGE Failed to load properties file for project 'JSONRestWS-002'
+
+!ENTRY org.eclipse.wst.sse.ui 4 4 2017-05-07 23:58:53.990
+!MESSAGE null
+!STACK 0
+java.lang.NullPointerException
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getDescriptor(AndroidContentAssist.java:867)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.getElementChoicesForTextNode(AndroidContentAssist.java:530)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeTextValues(AndroidContentAssist.java:498)
+	at com.android.ide.eclipse.adt.internal.editors.AndroidContentAssist.computeCompletionProposals(AndroidContentAssist.java:171)
+	at org.eclipse.wst.sse.ui.internal.contentassist.CompoundContentAssistProcessor.computeCompletionProposals(CompoundContentAssistProcessor.java:127)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$3.run(ContentAssistant.java:1931)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1928)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:565)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:560)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:494)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:487)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.showPossibleCompletions(ContentAssistant.java:1747)
+	at org.eclipse.wst.sse.ui.internal.StructuredTextViewer.doOperation(StructuredTextViewer.java:488)
+	at org.eclipse.ui.texteditor.ContentAssistAction$1.run(ContentAssistAction.java:84)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.texteditor.ContentAssistAction.run(ContentAssistAction.java:81)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:118)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor57.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.executeCommand(KeyBindingDispatcher.java:286)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.press(KeyBindingDispatcher.java:507)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.processKeyEvent(KeyBindingDispatcher.java:558)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.filterKeySequenceBindings(KeyBindingDispatcher.java:378)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher.access$0(KeyBindingDispatcher.java:324)
+	at org.eclipse.e4.ui.bindings.keys.KeyBindingDispatcher$KeyDownFilter.handleEvent(KeyBindingDispatcher.java:86)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1270)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1078)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1103)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1088)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1130)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1126)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1547)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:4918)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:364)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4799)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:359)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5110)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2552)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3822)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2017-05-07 23:59:14.477
+!MESSAGE No projects found for [D:\Development\Java\workspaces\webservices\JSONRestWS-002\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2017-05-07 23:59:37.911
+!MESSAGE No projects found for [D:\Development\Java\workspaces\webservices\JSONRestWS-002\WebContent\WEB-INF\web.xml]
+
+!ENTRY org.eclipse.wst.server.core 4 0 2017-05-07 23:59:54.910
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2017-05-08 00:01:37.836
+!MESSAGE No projects found for [D:\Development\Java\workspaces\webservices\JSONRestWS-002\WebContent\WEB-INF\web.xml]
+
+!ENTRY org.eclipse.wst.server.core 4 0 2017-05-08 00:01:56.102
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2017-05-08 00:03:08.524
+!MESSAGE No projects found for [D:\Development\Java\workspaces\webservices\JSONRestWS-002\WebContent\WEB-INF\web.xml]
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:03:20.841
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.041
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.045
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.048
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.049
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.051
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.053
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.054
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.055
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.056
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.058
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.792
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:40.794
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:41.440
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:41.442
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:06:47.831
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.593
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.595
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.596
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.597
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.600
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.600
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.602
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.603
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.604
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:44.606
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:45.280
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:45.281
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:45.876
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:45.877
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:36:52.157
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.037
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.038
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.039
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.039
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.040
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.041
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.041
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.042
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.043
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.043
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.295
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.295
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.614
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2017-05-08 00:44:22.614
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.

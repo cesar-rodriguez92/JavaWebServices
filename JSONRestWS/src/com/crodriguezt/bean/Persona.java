@@ -1,8 +1,9 @@
 package com.crodriguezt.bean;
 
+import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+@XmlRootElement(name="persona")
 public class Persona {
 
 	private int id;
@@ -19,7 +20,7 @@ public class Persona {
 	public int getId() {
 		return id;
 	}
-
+	@XmlElement
 	public void setId(int id) {
 		this.id = id;
 	}
@@ -27,7 +28,7 @@ public class Persona {
 	public String getName() {
 		return name;
 	}
-
+	@XmlElement
 	public void setName(String name) {
 		this.name = name;
 	}

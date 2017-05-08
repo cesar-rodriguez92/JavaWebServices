@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="D:\Development\Java\workspaces\webservices\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Development\Java\workspaces\webservices\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\RestWebServices" path="/RestWebServices" reloadable="true" source="org.eclipse.jst.jee.server:RestWebServices"/><Context docBase="D:\Development\Java\workspaces\webservices\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSONRestWS" path="/JSONRestWS" reloadable="true" source="org.eclipse.jst.jee.server:JSONRestWS"/></Host>
+      <Context docBase="D:\Development\Java\workspaces\webservices\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="D:\Development\Java\workspaces\webservices\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSONRestWS-002" path="/JSONRestWS-002" reloadable="true" source="org.eclipse.jst.jee.server:JSONRestWS-002"/></Host>
     </Engine>
   </Service>
 </Server>
