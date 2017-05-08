@@ -28,4 +28,16 @@ public class BookService {
 		LibroBO libroBO = new LibroBO();
 		return libroBO.agregarLibro(titulo, autor, editorial, iSBN, anio);
 	}
+	
+	@POST
+	@Path("/guardarLibro2")
+	@Produces(MediaType.APPLICATION_JSON)
+	@Consumes(MediaType.APPLICATION_FORM_URLENCODED)
+	public String agregarLibro2(@FormParam("titulo") String titulo, @FormParam("autor") String autor, 
+			@FormParam("editorial") String editorial, @FormParam("isbn") String iSBN, 
+			@FormParam("anio") String anio, @Context HttpServletResponse servletResponse){
+		System.out.println("---->Llego al ws ahora invoca BO");
+		LibroBO libroBO = new LibroBO();
+		return "Libro guardado de manera exitosa";
+	}
 }
