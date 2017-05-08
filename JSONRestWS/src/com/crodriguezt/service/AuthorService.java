@@ -20,8 +20,12 @@ public class AuthorService {
 		List list = new ArrayList();
 		Persona p1 = new  Persona(1,"Juan");
 		Persona p2 = new  Persona(2,"Francisco");
+		Persona p3 = new  Persona(2,"Pedro");
+		Persona p4 = new  Persona(2,"Lucas");
 		list.add(p1);
 		list.add(p2);
+		list.add(p3);
+		list.add(p4);
 		
 		return list;
 		
