@@ -1,0 +1,9 @@
+package com.crodriguezt.restws;
+
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement(name = "user")
+public class User {
+
+	
+}

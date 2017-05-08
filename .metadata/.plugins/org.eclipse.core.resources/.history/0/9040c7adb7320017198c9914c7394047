@@ -1,0 +1,21 @@
+package com.crodriguezt.inout;
+
+import java.io.File;
+import java.io.FileOutputStream;
+
+public class main {
+
+	public static void main(String[] args) {
+		File file =  new File("Alumnos.txt");
+
+	}
+	
+	public boolean grabarArchivo(){
+		File archivo = new File("Alumnos.txt");
+		FileOutputStream fos;
+		
+		
+		return true;
+	}
+
+}

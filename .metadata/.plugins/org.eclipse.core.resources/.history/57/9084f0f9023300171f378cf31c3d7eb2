@@ -1,0 +1,38 @@
+package com.crodriguezt.clientws;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.Entity;
+import javax.ws.rs.core.Form;
+import javax.ws.rs.core.MediaType;
+
+public class ClienteWS {
+
+	//private String REST_SERVICE_URL = "http://localhost:3000";
+	private String REST_SERVICE_URL = "http://api.football-data.org/v1/competitions/426/";
+	
+	public static void main(String[] args) {
+		System.out.println("Llamar a loginUser");
+		ClienteWS clientews = new ClienteWS();
+		clientews.loginUser();
+
+	}
+	
+	public void loginUser(){
+		System.out.println("Llego a loginUser");
+		Client cliente = ClientBuilder.newClient();
+		String respuestaWS;
+		Form form = new Form();
+		form.param("username", "cesar@mail.com");
+		form.param("password", "1234");
+		
+		respuestaWS = cliente
+				.target(REST_SERVICE_URL)
+				.path("/teams")
+				.request(MediaType.APPLICATION_FORM_URLENCODED)
+				.post(Entity.entity(form, MediaType.APPLICATION_FORM_URLENCODED),
+						String.class);
+		System.out.println("--------->" + respuestaWS);
+	}
+
+}

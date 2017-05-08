@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;User.java&apos; to &apos;ClienteUserManagement/src/com.crodriguezt.restws.client&apos;&#x0D;&#x0A;- Original project: &apos;UserManagement&apos;&#x0D;&#x0A;- Destination element: &apos;ClienteUserManagement/src/com.crodriguezt.restws.client&apos;&#x0D;&#x0A;- Original element: &apos;com.crodriguezt.restws.User.java&apos;" description="Copy compilation unit" destination="=ClienteUserManagement/src&lt;com.crodriguezt.restws.client" element1="/src&lt;com.crodriguezt.restws{User.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1494129080569" units="1" version="1.0"/>
+</session>

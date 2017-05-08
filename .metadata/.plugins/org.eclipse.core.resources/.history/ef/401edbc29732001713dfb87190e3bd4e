@@ -1,0 +1,5 @@
+package com.crodriguezt.restws;
+
+public class UserService {
+
+}

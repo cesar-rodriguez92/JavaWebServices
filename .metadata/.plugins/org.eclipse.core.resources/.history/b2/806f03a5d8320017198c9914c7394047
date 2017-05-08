@@ -1,0 +1,33 @@
+package com.crodriguezt.restws.client;
+
+import java.util.List;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.core.GenericType;
+
+public class RestWebServiceClient {
+
+	private Client client;
+	private String REST_SERVICE_URL = "http://localhost:8080/UserManagement/rest/UserService/users";
+	private static final String SUCCESS_RESULT = "<result>Success</result>";
+	private static final String PASS = "pass";
+	private static final String FAIL = "fail";
+	
+	private void init(){
+		this.client = ClientBuilder.newClient();
+	}
+
+	public static void main(String[] args) {
+		RestWebServiceClient clienterest = new RestWebServiceClient();
+		//inicializar cliente
+		clienterest.init();
+		
+	}
+	
+	private void testGetAllUsers(){
+		GenericType<List<User>> lista =  new GenericType<List<User>>{};
+		
+	}
+
+}

@@ -1,0 +1,23 @@
+package com.crodriguezt.restws;
+
+import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class UserDAO {
+
+	public List<User> getAllUsers(){
+		List<User> userList = null;
+		
+		try {
+			File file =  new File("User.dat");
+			if (!file.exists()) {
+				User user = new User(1,"Mahesh","Teacher");
+				userList =  new ArrayList<>(User);
+			}
+		} catch (Exception e) {
+			
+		}
+	}
+}

@@ -1,0 +1,28 @@
+package com.crodriguezt.client;
+
+
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.WebTarget;
+import javax.ws.rs.core.MediaType;
+
+public class Book {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//1. Create a client
+			Client client = ClientBuilder.newClient();
+			//Configure client
+			
+		
+		//2. Select a target
+			//WebTarget target = client.target("https://httpbin.org/get");
+			WebTarget target = client.target("http://127.0.0.1:3000/auth/reset/94e3f2dbbb39ff4332aaee5195d8930cb0161133");
+			System.out.println(target.request(MediaType.APPLICATION_JSON_TYPE).get(String.class));
+			
+			//get response from webservice
+	}
+
+}

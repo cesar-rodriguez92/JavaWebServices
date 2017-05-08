@@ -1,0 +1,89 @@
+package com.crodriguezt.restws.client;
+
+import java.util.List;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.Entity;
+import javax.ws.rs.core.Form;
+import javax.ws.rs.core.GenericType;
+import javax.ws.rs.core.MediaType;
+
+public class RestWebServiceClient {
+
+	private Client client;
+	private String REST_SERVICE_URL = "http://localhost:8080/UserManagement/apis/UserService/users";
+	private static final String SUCCESS_RESULT = "<result>Success</result>";
+	private static final String PASS = "pass";
+	private static final String FAIL = "fail";
+	
+	private void init(){
+		this.client = ClientBuilder.newClient();
+	}
+
+	public static void main(String[] args) {
+		RestWebServiceClient clienterest = new RestWebServiceClient();
+		//inicializar cliente
+		clienterest.init();
+		clienterest.testGetAllUsers();
+		//clienterest.testGetUser();
+		clienterest.testUpdateUser();
+		
+	}
+	
+	private void testGetAllUsers(){
+		GenericType<List<User>> lista =  new GenericType<List<User>>() {};
+		List<User> users = client
+				.target(REST_SERVICE_URL)
+				.request(MediaType.APPLICATION_XML)
+				.get(lista);
+		String result =PASS;
+		if (users.isEmpty()) {
+			result= FAIL;
+		}
+		System.out.println("Test case name: testGetAllUsers, Result: " + result);
+		for(User usuario: users){
+			System.out.println(usuario.getId() + " - " +usuario.getName() + " - " + usuario.getProfession());
+		}
+	}
+	
+	private void testGetUser(){
+		User viewUser = new User();
+		viewUser.setId(1);
+		User user = client
+				.target(REST_SERVICE_URL)
+				.path("/{userid}")
+				.resolveTemplate("userid", 1)
+				.request(MediaType.APPLICATION_XML)
+				.get(User.class);
+		String result = FAIL;
+		if(viewUser !=null && viewUser.getId() == user.getId()){
+			result= PASS;
+		}
+		System.out.println("Test case name: testgetUser, Result: "+ result);
+	}
+	
+	private void testUpdateUser(){
+		try{
+		Form formulario = new Form();
+		formulario.param("id", "1");
+		formulario.param("name", "Suresh");
+		formulario.param("profession", "Clerk");
+		
+		String callResult = client
+				.target(REST_SERVICE_URL)
+				.request(MediaType.APPLICATION_XML)
+				.put(Entity.entity(formulario, MediaType.APPLICATION_FORM_URLENCODED_TYPE), String.class);
+		
+		String result = FAIL;
+		if (!SUCCESS_RESULT.equals(callResult)) {
+			result=FAIL;
+		}
+		System.out.println("Test case name: testUpdateUser, Result: " + result);
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+	}
+
+}

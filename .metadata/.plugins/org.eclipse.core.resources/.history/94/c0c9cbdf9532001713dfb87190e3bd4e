@@ -1,0 +1,14 @@
+package com.crodriguezt.restws;
+
+import java.util.List;
+
+public class UserDAO {
+
+	public List<User> getAllUsers(){
+		try {
+			
+		} catch (Exception e) {
+			
+		}
+	}
+}

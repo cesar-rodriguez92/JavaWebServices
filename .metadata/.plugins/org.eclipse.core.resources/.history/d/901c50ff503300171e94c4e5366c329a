@@ -1,0 +1,9 @@
+package com.crodriguezt.inout3.services;
+
+import javax.ws.rs.Path;
+
+@Path("/ServiciosCliente")
+public class Servicios {
+	
+
+}

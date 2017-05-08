@@ -1,0 +1,44 @@
+package com.crodriguezt.restws.client;
+
+import java.util.List;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.core.GenericType;
+import javax.ws.rs.core.MediaType;
+
+public class RestWebServiceClient {
+
+	private Client client;
+	private String REST_SERVICE_URL = "http://localhost:8080/UserManagement/apis/UserService/users";
+	private static final String SUCCESS_RESULT = "<result>Success</result>";
+	private static final String PASS = "pass";
+	private static final String FAIL = "fail";
+	
+	private void init(){
+		this.client = ClientBuilder.newClient();
+	}
+
+	public static void main(String[] args) {
+		RestWebServiceClient clienterest = new RestWebServiceClient();
+		//inicializar cliente
+		clienterest.init();
+		clienterest.testGetAllUsers();
+		
+	}
+	
+	private void testGetAllUsers(){
+		GenericType<List<User>> lista =  new GenericType<List<User>>() {};
+		List<User> users = client
+				.target(REST_SERVICE_URL)
+				.request(MediaType.APPLICATION_XML)
+				.get(lista);
+		String result =PASS;
+		if (users.isEmpty()) {
+			result= FAIL;
+		}
+		System.out.println("Test case name: testGetAllUsers, Result: " + result);
+		
+	}
+
+}

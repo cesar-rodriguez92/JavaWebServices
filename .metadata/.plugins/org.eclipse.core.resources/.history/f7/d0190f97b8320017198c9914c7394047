@@ -1,0 +1,41 @@
+package com.crodriguezt.inout;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+
+public class main {
+
+	public static void main(String[] args) {
+		File file =  new File("Alumnos.txt");
+
+	}
+	
+	public boolean grabarArchivo(){
+
+		try {
+			Alumno alumno = new Alumno("0973","Cesar","RT", 24);
+			
+			File archivo = new File("Alumnos.txt");
+			FileOutputStream fos;
+			fos =  new FileOutputStream(archivo);
+			ObjectOutputStream oos =  new ObjectOutputStream(fos);
+			oos.writeObject(alumno);
+			oos.close();
+			
+			
+			
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		
+		
+		return true;
+	}
+
+}

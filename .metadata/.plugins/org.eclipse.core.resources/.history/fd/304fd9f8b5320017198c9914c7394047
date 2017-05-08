@@ -1,0 +1,83 @@
+package com.crodriguezt.restws;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class UserDAO {
+
+	public List<Alumnos> getAllUsersOLD(){
+		List<Alumnos> userList = null;
+		
+		try {
+			File file =  new File("Usuarios.txt");
+			if (!file.exists()) {
+				System.out.println("Archivo no existe");
+				Alumnos user = new Alumnos(1,"Mahesh","Teacher");
+				Alumnos user1 = new Alumnos(2,"Cesar","Ing");
+				Alumnos user2 = new Alumnos(3,"Alberto","Sistemas");
+				Alumnos user3 = new Alumnos(4,"Rodriguez","Univ");
+				Alumnos user4 = new Alumnos(5,"Toledo","de Lima");
+				userList =  new ArrayList<Alumnos>();
+				userList.add(user);
+				userList.add(user1);
+				userList.add(user2);
+				userList.add(user3);
+				userList.add(user4);
+				saveUserListOLD(userList);
+			}else{
+				System.out.println("Archivo SI existe");
+				FileInputStream fiis = new FileInputStream(file);
+				ObjectInputStream ois = new ObjectInputStream(fiis);
+				userList = (List<Alumnos>) ois.readObject();
+				ois.close();
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+		return userList;
+	}
+	
+	private void saveUserListOLD(List<Alumnos> userList){
+		try {
+			File file =  new File("Usuarios.txt");
+			FileOutputStream fos;
+			fos = new FileOutputStream(file);
+			ObjectOutputStream oos = new ObjectOutputStream(fos);
+			oos.writeObject(userList);
+			oos.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public List<Alumnos> getAllUsers(){
+		List<Alumnos> userList = null;
+		try {
+				Alumnos user = new Alumnos(1,"Mahesh","Teacher");
+				Alumnos user1 = new Alumnos(2,"Luis","Piloto");
+				Alumnos user2 = new Alumnos(3,"Pedro","Abogado");
+				Alumnos user3 = new Alumnos(4,"Alfredo","Doctor");
+				userList =  new ArrayList<Alumnos>();
+				userList.add(user);
+				userList.add(user1);
+				userList.add(user2);
+				userList.add(user3);
+		}catch (Exception e) {
+			e.printStackTrace();
+		}
+		return userList;
+	}
+	
+}

@@ -1,0 +1,13 @@
+package com.crodriguezt.restws;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+@Path("/UserService")
+public class UserService {
+	UserDAO userDao =  new UserDAO();
+	@GET
+	@Path("/users")
+	
+
+}

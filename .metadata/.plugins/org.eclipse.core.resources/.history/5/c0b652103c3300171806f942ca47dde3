@@ -1,0 +1,30 @@
+package com.crodriguezt.inout2;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.PrintWriter;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		Principal p = new Principal();
+		p.escribirArchivo();
+
+	}
+	
+	public void escribirArchivo(){
+		File archivo = new File("C:/Soft/test2.txt");
+		try {
+			FileWriter fr = new FileWriter(archivo);
+			PrintWriter pw = new PrintWriter(fr);
+			pw.print("Pagina de prueba \n");
+			pw.println("{'username': 'cesar1@mail.com', \n 'name': 'Cesar 1', \n'lastName': 'RT 1',\n 'lastLogin': '10:31:27 AM - 07/05/2017 '	}");
+			pw.close();
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+	}
+
+}

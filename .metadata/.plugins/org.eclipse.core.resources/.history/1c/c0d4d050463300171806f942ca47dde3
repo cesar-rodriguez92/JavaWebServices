@@ -1,0 +1,11 @@
+package com.crodriguezt.inout3;
+
+public class PrincipalXML {
+	
+	
+	
+	public static void main(args[]){
+		
+	}
+
+}

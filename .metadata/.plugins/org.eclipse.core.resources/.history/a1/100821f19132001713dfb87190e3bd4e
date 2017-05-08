@@ -1,0 +1,26 @@
+package com.crodriguezt.client;
+
+
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.WebTarget;
+import javax.ws.rs.core.MediaType;
+
+public class Book {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//1. Create a client
+		Client client = ClientBuilder.newClient();	
+		
+		//2. Select a target
+		//WebTarget target = client.target("https://httpbin.org/get");
+		WebTarget target = client.target("http://localhost:3000/horalocal");
+		//System.out.println(target.request(MediaType.APPLICATION_JSON).get(String.class));
+			
+
+	}
+
+}

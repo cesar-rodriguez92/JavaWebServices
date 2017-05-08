@@ -1,0 +1,20 @@
+package com.crodriguezt.inout3;
+
+import java.util.List;
+
+public class PrincipalXML {
+	
+	
+	
+	public static void main(String args[]){
+		System.out.println("Lectura y escritura de XML's");
+		
+	}
+	
+	public void grabarXML(){
+		List<Cliente> clientList =  new List<Cliente>() {
+		};
+		
+	}
+
+}

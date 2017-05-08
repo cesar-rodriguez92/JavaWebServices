@@ -1,0 +1,55 @@
+package com.crodriguezt.clientws;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.Entity;
+import javax.ws.rs.client.Invocation.Builder;
+import javax.ws.rs.core.Form;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+
+public class ClienteWS {
+
+	private String REST_SERVICE_URL = "http://localhost:3000";
+	
+	public static void main(String[] args) {
+		System.out.println("Llamar a loginUser");
+		ClienteWS clientews = new ClienteWS();
+		clientews.loginUser();
+
+	}
+	
+	public void loginUser(){
+		System.out.println("Llego a loginUser");
+		Client cliente = ClientBuilder.newClient();
+		String respuestaWS;
+		Form form = new Form();
+		form.param("username", "cesar@mail.com");
+		form.param("password", "1234");
+		
+		respuestaWS =  cliente
+				.target(REST_SERVICE_URL)
+				.path("/login")
+				.request(MediaType.APPLICATION_FORM_URLENCODED)
+				.accept("application/json")
+				.post(Entity.entity(form, MediaType.APPLICATION_FORM_URLENCODED),
+						String.class);
+		Client client = ClientBuilder.newClient();
+		Response response = ((Builder) client.target("http://commerce.com/customers/123"))
+                .accept("application/json")
+                .get();
+			try {
+			if (response.getStatus() == 200) {
+			response.bufferEntity();
+				//Customer customer = response.readEntity(Customer.class);
+				//Map rawJson = response.readEntity(Map.class);
+			System.out.println(response);
+			}
+			} finally {
+			response.close();
+			}
+		
+		System.out.println("--------->" + respuestaWS);
+	}
+
+}

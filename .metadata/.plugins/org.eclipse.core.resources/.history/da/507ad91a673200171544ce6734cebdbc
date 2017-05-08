@@ -1,0 +1,5 @@
+package com.crodriguezt.ws.bl;
+
+public class Hello {
+
+}

@@ -1,0 +1,26 @@
+package com.crodriguezt.client;
+
+import java.awt.PageAttributes.MediaType;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.WebTarget;
+
+public class Book {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//1. Create a client
+			Client client = ClientBuilder.newClient();
+			//Configure client
+			
+		
+		//2. Select a target
+			WebTarget target = client.target("https://httpbin.org/get");
+			System.out.println(target.request(MediaType.TEXT_XML));
+			
+			//get response from webservice
+	}
+
+}

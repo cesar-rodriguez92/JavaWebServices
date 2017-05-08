@@ -1,0 +1,20 @@
+package com.crodriguezt.clientws;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+
+public class ClienteWS {
+
+	private String REST_SERVICE_URL = "http://localhost:3000";
+	
+	public static void main(String[] args) {
+		
+
+	}
+	
+	public void loginUser(){
+		Client cliente = ClientBuilder.newClient();
+		
+	}
+
+}

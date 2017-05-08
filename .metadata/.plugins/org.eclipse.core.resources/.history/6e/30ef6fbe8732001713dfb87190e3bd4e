@@ -1,0 +1,18 @@
+package com.crodriguezt.client;
+
+import javax.ws.rs.client.Client;
+
+public class Book {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//1. Create a client
+		Client client = ClientBuilder.newClient();
+		
+		//2. Select a target
+		
+		//get response from webservice
+	}
+
+}

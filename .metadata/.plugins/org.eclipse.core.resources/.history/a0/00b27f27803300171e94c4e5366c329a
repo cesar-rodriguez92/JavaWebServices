@@ -1,0 +1,163 @@
+package com.crodriguezt.inout3;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+import java.io.StringWriter;
+import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Marshaller;
+import javax.xml.bind.Unmarshaller;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.OutputKeys;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
+
+import org.jdom.Element;
+import org.jdom.input.SAXBuilder;
+import org.w3c.dom.Document;
+import org.xml.sax.SAXException;
+
+public class PrincipalXML {
+
+	// System.out.println("Lectura y escritura de XML's");
+	// PrincipalXML pxml = new PrincipalXML();
+	// pxml.grabarXML();
+	// System.out.println("***************************************************");
+	// pxml.leerXML();
+
+	public void grabarXML() {
+		System.out.println("Grabando archivo XML");
+		List<ClienteBean> clientList = new ArrayList<ClienteBean>();
+
+		ClienteBean c1 = new ClienteBean(1, "Cesar 1", "RT 1", "05/11/1992", "Jr. Orejuelas 1", "Masculino", 24);
+		ClienteBean c2 = new ClienteBean(2, "Cesar 2", "RT 2", "05/11/1992", "Jr. Orejuelas 2", "Masculino", 25);
+		ClienteBean c3 = new ClienteBean(3, "Cesar 3", "RT 3", "05/11/1992", "Jr. Orejuelas 3", "Masculino", 26);
+		ClienteBean c4 = new ClienteBean(4, "Cesar 4", "RT 4", "05/11/1992", "Jr. Orejuelas 4", "Masculino", 27);
+		ClienteBean c5 = new ClienteBean(5, "Cesar 5", "RT 5", "05/11/1992", "Jr. Orejuelas 5", "Masculino", 28);
+		ClienteBean c6 = new ClienteBean(6, "Cesar 6", "RT 6", "05/11/1992", "Jr. Orejuelas 6", "Masculino", 29);
+		ClienteBean c7 = new ClienteBean(7, "Cesar 7", "RT 7", "05/11/1992", "Jr. Orejuelas 7", "Masculino", 30);
+		ClienteBean c8 = new ClienteBean(8, "Cesar 8", "RT 8", "05/11/1992", "Jr. Orejuelas 8", "Masculino", 31);
+		ClienteBean c9 = new ClienteBean(9, "Cesar 9", "RT 9", "05/11/1992", "Jr. Orejuelas 9", "Masculino", 32);
+		ClienteBean c10 = new ClienteBean(10, "Cesar 10", "T 10", "05/11/1992", "Jr. Orejuelas 10", "Masculino", 33);
+		ClienteBean c11 = new ClienteBean(11, "Cesar 11", "RT 11", "05/11/1992", "Jr. Orejuelas 11", "Masculino", 34);
+
+		clientList.add(c1);
+		clientList.add(c2);
+		clientList.add(c3);
+		clientList.add(c4);
+		clientList.add(c5);
+		clientList.add(c6);
+		clientList.add(c7);
+		clientList.add(c8);
+		clientList.add(c9);
+		clientList.add(c10);
+		clientList.add(c11);
+
+		File archivo = new File("C:/Soft/clientes.dat");
+		try {
+			FileOutputStream fos = new FileOutputStream(archivo);
+			ObjectOutputStream oos = new ObjectOutputStream(fos);
+			oos.writeObject(clientList);
+			oos.close();
+			fos.close();
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+
+	public List<ClienteBean> leerXML() {
+		System.out.println("Leyendo archivo XML");
+		File archivo = new File("C:/Soft/clientes.dat");
+		if (archivo.exists()) {
+			try {
+				FileInputStream fis = new FileInputStream(archivo);
+				ObjectInputStream ois = new ObjectInputStream(fis);
+				List<ClienteBean> listaClientes = new ArrayList<ClienteBean>();
+				listaClientes = (List<ClienteBean>) ois.readObject();
+				System.out.println(listaClientes);
+				/*
+				 * for(Cliente cliente : listaClientes){ System.out.println(); }
+				 */
+				return listaClientes;
+
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+
+		} else {
+			System.out.println("Error archivo no existe, imposible recuperar data \n creando archivo nuevamnte");
+			grabarXML();
+			System.out.println("Segundo intento");
+			leerXML();
+		}
+		return null;
+	}
+
+	public void imprimirXML(List<ClienteBean> clientList) {
+
+		try {
+			JAXBContext jaxbcontent = JAXBContext.newInstance(ClienteBean.class);
+			Marshaller jaxbmarshaller = jaxbcontent.createMarshaller();
+			jaxbmarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+			StringWriter sw = new StringWriter();
+			for (ClienteBean cliente : clientList) {
+				jaxbmarshaller.marshal(cliente, sw);
+				String xmlString = sw.toString();
+				System.out.println(xmlString);
+			}
+
+		} catch (JAXBException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public List<FoodBean> leerArchivoXML() {
+
+		// cargarXML carga = new cargarXML();
+		// carga.cargarXml();
+		SAXBuilder builder = new SAXBuilder();
+		File xmlFile = new File("C:/Soft/menu.xml");
+		List<FoodBean> listaComida = new ArrayList<FoodBean>();
+		FoodBean comida = new FoodBean();
+		try {
+			org.jdom.Document documento = (org.jdom.Document) builder.build(xmlFile);
+			Element rootNode = documento.getRootElement();
+			List list = rootNode.getChildren("food");
+			for (int i = 0; i < list.size(); i++) {
+				Element food = (Element) list.get(i);
+				Element campo = (Element) list.get(i);
+				String name = campo.getChildTextTrim("name");
+				String price = campo.getChildTextTrim("price");
+				String description = campo.getChildTextTrim("description");
+				String calories = campo.getChildTextTrim("calories");
+				comida = new FoodBean(name, price, description, calories);
+				listaComida.add(comida);
+			}
+			return listaComida;
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+		return null;
+	}
+
+}
